@@ -1,0 +1,39 @@
+
+
+body{
+
+	background-color: orange;
+}
+
+
+
+h1{
+	font-family: helvetica;
+	font-size: 40px;
+	color:#e80eae;
+}
+
+p{
+	font-family: garamond;
+	font-size:50px;
+	color:aqua;
+}
+
+a {
+	font-size: 25px;
+
+}
+
+#myFirstId{
+   font-family:garamond;
+   color:blue;
+
+}
+
+#mySecondId{
+	font-family: helvetica;
+	color:red;
+
+}
+/*command dash to comment out code*/
+
